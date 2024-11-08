@@ -10,7 +10,6 @@ The goal was to explore real-world data, apply data visualization techniques, an
 2.Created a bar chart to display the frequency of each category.
 3.Focused on improving data storytelling and visualization skills.
 
-Files:
-Power BI file (.pbix): Contains the Power BI project and visualizations used for the analysis.
+
 
 
